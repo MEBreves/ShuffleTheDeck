@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2022
 'Shuffle the Deck
-'url
+'https://github.com/MEBreves/ShuffleTheDeck
 
 Option Strict On
 Option Explicit On
